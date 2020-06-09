@@ -12,7 +12,7 @@
 
 ### Week 4(3/23-3/29) :notebook:
 - 實作：關聯規則
-  - 利用movie lens作為dataset，進行關聯規則
+  - [利用movie lens作為dataset，進行關聯規則](https://github.com/ching-wen123/Data_mining/blob/master/%E7%A8%8B%E5%BC%8F%E7%A2%BC/Apriori_movielens.R)
   - 利用northwind作為dataset，進行關聯規則
 
 ### Week 5(3/30-4/5) :notebook:
