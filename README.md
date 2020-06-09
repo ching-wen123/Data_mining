@@ -21,8 +21,8 @@
 
 ### Week 7(4/13-4/19) :notebook:
 - 資料分類練習
-    - 決策樹
-    - KNN
+    - [決策樹](https://github.com/ching-wen123/Data_mining/blob/master/Image/classification.pdf)
+    - [KNN](https://github.com/ching-wen123/Data_mining/blob/master/Image/KNN.pdf
     - 貝式分類法
 ### Week 8(4/20-4/26) :notebook:
 - [Basic Concept for ANN Classifier](https://github.com/ching-wen123/Data_mining/blob/master/Image/ANN.pdf)
