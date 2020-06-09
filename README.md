@@ -23,7 +23,7 @@
 - [Merge_Sort](https://github.com/ching-wen123/ching-wen/blob/master/Note/Merge_Sort.md)
 
 ### Week 8(4/20-4/26) :notebook:
-- Basic Concept for ANN Classifier
+- [Basic Concept for ANN Classifier](https://github.com/ching-wen123/Data_mining/blob/master/Image/ANN.pdf)
   - perceptron(感知機)
   - liner problem(線性可分割、線性不可分割)
   - backpropagation(倒傳遞類神經網路)
