@@ -19,9 +19,11 @@
 - [Quick_Sort](https://github.com/ching-wen123/ching-wen/blob/master/Note/Quick_Sort.md)
 - [Heap_Sort](https://github.com/ching-wen123/ching-wen/blob/master/Note/Heap_Sort.md)
 
-### Week 7 :notebook:
-- [Merge_Sort](https://github.com/ching-wen123/ching-wen/blob/master/Note/Merge_Sort.md)
-
+### Week 7(4/13-4/19) :notebook:
+- 資料分類練習
+    - 決策樹
+    - KNN
+    - 貝式分類法
 ### Week 8(4/20-4/26) :notebook:
 - [Basic Concept for ANN Classifier](https://github.com/ching-wen123/Data_mining/blob/master/Image/ANN.pdf)
   - perceptron(感知機)
