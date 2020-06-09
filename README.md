@@ -27,7 +27,7 @@
 
 ### Week 9(4/27-5/3) :notebook
 - 實作：利用R的內建資料集"iris dataset"，練習如何訓練及預測資料
-- 理論：解釋混淆矩陣(confusion matrix)
+- 理論：[解釋混淆矩陣(confusion matrix)](https://github.com/ching-wen123/Data_mining/blob/master/Image/confusion_matrix.pdf)
 
 ### Week 10(5/4-5/10) :notebook:
 - mid-term
