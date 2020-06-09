@@ -25,7 +25,7 @@
 - 資料分類練習
     - [決策樹](https://github.com/ching-wen123/Data_mining/blob/master/Image/classification.pdf)
     - [KNN](https://github.com/ching-wen123/Data_mining/blob/master/Image/KNN.pdf)
-    - 貝式分類法
+    - [貝式分類法](https://github.com/ching-wen123/Data_mining/blob/master/Image/%E8%B2%9D%E5%BC%8F.pdf)
     
 ### Week 8(4/20-4/26) :notebook:
 - [Basic Concept for ANN Classifier](https://github.com/ching-wen123/Data_mining/blob/master/Image/ANN.pdf)
