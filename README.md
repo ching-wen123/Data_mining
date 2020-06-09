@@ -22,8 +22,11 @@
 ### Week 7 :notebook:
 - [Merge_Sort](https://github.com/ching-wen123/ching-wen/blob/master/Note/Merge_Sort.md)
 
-### Week 8 :notebook:
-- [Binary_tree](https://github.com/ching-wen123/ching-wen/blob/master/Note/Binary_Tree.md)
+### Week 8(4/20-4/26) :notebook:
+- Basic Concept for ANN Classifier
+  - perceptron(感知機)
+  - liner problem(線性可分割、線性不可分割)
+  - backpropagation(倒傳遞類神經網路)
 
 ### Week 9(4/27-5/3) :notebook
 - 實作：利用R的內建資料集"iris dataset"，練習如何訓練及預測資料
