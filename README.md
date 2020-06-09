@@ -5,7 +5,7 @@
   - 說明上課方式與記分規則
 
 ### Week2(3/9-3/15) :notebook:
-- 利用R語言，爬取ptt中的八卦版
+- [R語言，爬取ptt中的八卦版](https://github.com/ching-wen123/Data_mining/blob/master/%E7%A8%8B%E5%BC%8F%E7%A2%BC/webcrawler_pttGossiping.R)
 
 ### Week3(3/16-3/22 :notebook:
 - 理論：[關聯規則](https://github.com/ching-wen123/Data_mining/blob/master/Image/Approri.pdf)
