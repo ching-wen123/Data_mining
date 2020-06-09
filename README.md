@@ -8,7 +8,7 @@
 - 利用R語言，爬取ptt中的八卦版
 
 ### Week3(3/16-3/22 :notebook:
-- 理論：關聯規則
+- 理論：[關聯規則](https://github.com/ching-wen123/Data_mining/blob/master/Image/Approri.pdf)
 
 ### Week 4(3/23-3/29) :notebook:
 - 實作：關聯規則
