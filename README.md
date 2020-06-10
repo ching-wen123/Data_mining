@@ -44,7 +44,7 @@
 - no class
 
 ### Week 12(5/18-5/24) :notebook:
-- [文字探勘] (https://github.com/ching-wen123/Data_mining/blob/master/Image/%E8%B3%87%E6%96%99%E6%8E%A2%E5%8B%982020%E5%B9%B45%E6%9C%8820%E6%97%A5.pdf)
+- [文字探勘](https://github.com/ching-wen123/Data_mining/blob/master/Image/%E8%B3%87%E6%96%99%E6%8E%A2%E5%8B%982020%E5%B9%B45%E6%9C%8820%E6%97%A5.pdf)
 
 ### Week 13(5/25-5/31) :notebook:
 - 文字探勘
